@@ -1,3 +1,5 @@
 psychopy randomization code
-backup
-linebyline.py:wide form
+
+linebyline.py:every row represents one stimulus
+
+columnbycolumn.py:stimuli are in different columns
