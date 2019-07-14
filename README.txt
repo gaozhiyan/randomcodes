@@ -1,5 +1,5 @@
-psychopy randomization code
+### Psychopy Randomization Codes
 
-linebyline.py:every row represents one stimulus
+The codes here are used for stimuli randomization in Psychopy.
 
-columnbycolumn.py:stimuli are in different columns
+It is specific to my own experiments. I have included detailed comments to facilitate your further customization.
